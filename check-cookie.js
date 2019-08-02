@@ -1,4 +1,4 @@
-/*! @preserve Set and Get Cookies in JavaScript ( https://github.com/arulprasadj/set-and-get-cookies-in-javaScript ) -- Version: 1.1.0 -- Author: Arul Prasad J ('https://github.com/arulprasadj') */
+/*! @preserve Set and Get Cookies in JavaScript ( https://github.com/arulprasadj/set-and-get-cookies-in-javascript ) -- Version: 1.1.0 -- Author: Arul Prasad J ('https://github.com/arulprasadj') */
 
 window.onload = checkCookie();
 
